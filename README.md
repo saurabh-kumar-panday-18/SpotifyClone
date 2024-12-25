@@ -1,2 +1,2 @@
 # new project 
-using html and css  sporitfy clone
+using html and css  Spotify Clone.
